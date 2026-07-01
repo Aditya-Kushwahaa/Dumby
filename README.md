@@ -100,8 +100,7 @@ Dumby/
 │   └── dumby.ino
 │
 ├── images/
-│   ├── circuit-diagram.png
-│   └── demo.gif
+│    └──circuit-diagram.png
 │
 ├── README.md
 └── LICENSE
