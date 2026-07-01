@@ -43,7 +43,7 @@ Whether it's displaying the current time, showing weather information, playing m
 ### Hardware Architecture
 
 <p align="center">
-  <img src="images/circuit-diagram.png" width="700">
+  !<img > (https://github.com/Aditya-Kushwahaa/Dumby/blob/34d99763865ca05d698abb5ade960572020c732e/images/Circuit%20Diagram.png)
 </p>
 
 ---
