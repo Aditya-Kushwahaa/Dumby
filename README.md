@@ -42,9 +42,7 @@ Whether it's displaying the current time, showing weather information, playing m
 
 ### Hardware Architecture
 
-<p align="center">
-  ![image](https://github.com/Aditya-Kushwahaa/Dumby/blob/34d99763865ca05d698abb5ade960572020c732e/images/Circuit%20Diagram.png)
-</p>
+![Circui Diagram](https://github.com/Aditya-Kushwahaa/Dumby/blob/8d59b6cbb157b65d90e6c4a152981ce3abd2fb93/images/Circuit%20Diagram.png)
 
 ---
 
